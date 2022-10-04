@@ -17,4 +17,4 @@
   * 한글
   * 엑셀
   * 파워포인트
-![commonD3GSUB1E](https://user-images.githubusercontent.com/111830350/193733296-1de382c7-b9fc-466c-89fc-f990d88ac899.jpg)
+2. 운전면허 (1종)
